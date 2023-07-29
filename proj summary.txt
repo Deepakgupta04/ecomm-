@@ -1,0 +1,9 @@
+1- Used HTML,CSS,JS for web desiging
+2- used php, mysql for back end 
+3- my localhost port for my sql(3306) was blocked so i changed it to "localhost:3307"
+
+4- total days taken to complete this project-15
+   front-end(7 days)
+   back-end(8 days)
+
+taken some refrence from w3c school and stackoverflow
